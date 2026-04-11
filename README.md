@@ -17,7 +17,7 @@ As atividades servem como material de estudo e prática para reforçar os concei
 
 ## ☕︎ Tecnologia Utilizadas
 
-- Draw.io
+- Draw.io.
 
 ## ☕︎ Como Usar
 
