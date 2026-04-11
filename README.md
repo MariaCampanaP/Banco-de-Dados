@@ -1,0 +1,32 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0f676e&reversal=false"/>
+
+# ☕︎ Banco de Dados
+
+Repositório contendo exercícios da disciplina **Banco de Dados** do terceiro ano de **Ciência da Computação** na UNESPAR.
+
+## ☕︎ Sobre o Repositório
+
+Este repositório reúne implementações de conceitos fundamentais de **Banco de Dados**, abordando tópicos como:
+
+- *Introdução a Banco de Dados*
+- *Diagrama Entidade Relacionamento*
+
+# ☕︎ Objetivo
+
+As atividades servem como material de estudo e prática para reforçar os conceitos abordados na disciplina.
+
+## ☕︎ Tecnologia Utilizadas
+
+- Draw.io
+
+## ☕︎ Como Usar
+
+1. Clone o repositório para o seu computador:
+
+   ```bash
+   git clone https://github.com/MariaCampanaP/Banco-de-Dados.git
+   ```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0f676e&reversal=false&section=footer"/>
+
+
